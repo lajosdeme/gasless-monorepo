@@ -10,3 +10,6 @@
 [submodule "relayer-subscription"]
 	path = relayer-subscription
 	url = https://github.com/lajosdeme/relayer-subscription
+[submodule "relayer-demo-script"]
+	path = relayer-demo-script
+	url = https://github.com/lajosdeme/relayer-demo-script
